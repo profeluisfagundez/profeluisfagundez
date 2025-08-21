@@ -19,7 +19,7 @@
   <tr>
       <td align="center" width="96">
       <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="Html5" />
       </a>
       <br>Html5
     </td>
