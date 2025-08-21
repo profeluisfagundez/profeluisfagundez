@@ -45,7 +45,7 @@
       <a href="#Angular">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1920px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Vue JS
+      <br>Angular
     </td>
      <td align="center" width="96">
       <a href="#python3">
