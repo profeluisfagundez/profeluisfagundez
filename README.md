@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hola 👋, Mi nombre es Luis Eduardo</h1>
-<h3 align="center">Soy un desarrollador web Full Stack de Uruguay, actualmente trabajando con PHP, Laravel, Vue.js.</h3>
+<h3 align="center">Soy un desarrollador web Full Stack de Uruguay, actualmente trabajando con PHP, Laravel y Angular.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
@@ -42,8 +42,8 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <a href="#Angular">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1920px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
     </td>
