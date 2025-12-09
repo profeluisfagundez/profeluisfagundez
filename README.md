@@ -135,7 +135,6 @@
   </tr>
 </table>
 
----
 <details>
   <summary> ✌️ Estadisticas de Github </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=profeluisfagundez&show_icons=true&locale=en&layout=compact&theme=radical" alt="profeluisfagundez" /></p>
@@ -143,5 +142,3 @@
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=profeluisfagundez&theme=radical" alt="profeluisfagundez" /></p>
 <p><img width="100%" height="350px" alt="Luis Eduardo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=profeluisfagundez&theme=github" /></p>
 </details>
-
-----
