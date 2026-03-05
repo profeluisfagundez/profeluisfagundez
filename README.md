@@ -31,12 +31,12 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/mahmoudmiehob"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudmiehob&custom_title=mahmoudmiehob's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/profeluisfagundez"><img alt="mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=profeluisfagundez&custom_title=profeluisfagundez's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudmiehob" alt="mahmoud" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=profeluisfagundez" alt="mahmoud" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
