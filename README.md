@@ -50,7 +50,7 @@ class About extends Me
 
     public function getInfo($name , $age)
     {
-	echo "my name is " . $name . " and my age is " . $ago ;
+	    echo "my name is " . $name . " and my age is " . $age ;
     }
     
     
