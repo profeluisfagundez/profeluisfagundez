@@ -196,8 +196,8 @@ class About extends Me
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMiehob&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmiehob&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=profeluisfagundez&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=profeluisfagundez&theme=algolia" />
 </p>
 
 
@@ -206,16 +206,16 @@ class About extends Me
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-miehob-937064187"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="https://www.facebook.com/profile.php?id=100010194910703"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
-   <a href="mailto:mahmoudmiehob@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="https://www.youtube.com/channel/UCuGcIO6rrQkwZr4ex5oaB3w"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mahmoudmiehob&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=profeluisfagundez&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
 <h2 align='left'>Thank You ❤</h2>
