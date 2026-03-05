@@ -66,14 +66,7 @@ class About extends Me
 
     public function getKnowledge()
     {
-    return [
-	    Html::class,
-	    Css::class,
-      Php::class,
-      Javascript::class,
-      Laravel::class,
-      Bootstrap::class,
-    ];
+    return [ Html::class, Css::class, Php::class, Javascript::class, Laravel::class, Bootstrap::class ];
     }
 
     public function getFutureGoal()
@@ -218,7 +211,7 @@ class About extends Me
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=profeluisfagundez&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" /> </p>
 
 
-<h2 align='left'>Thank You ❤</h2>
+<h2 align='left'>Gracias por visitar mi perfil</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>	
