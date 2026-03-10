@@ -163,10 +163,16 @@ class About extends Me
   </tr>
    <tr>
       <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      <a href="#fedora" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="48" height="48" alt="fedora" />
       </a>
-      <br>Ubuntu
+      <br>Fedora
+    </td>
+      <td align="center" width="96">
+      <a href="#redhat" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/500px-Red_Hat_logo.svg.png" width="48" height="48" alt="redhat" />
+      </a>
+      <br>Red Hat
     </td>
       <td align="center" width="96">
       <a href="#git" >
@@ -196,7 +202,6 @@ class About extends Me
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=profeluisfagundez&theme=algolia">
 <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=profeluisfagundez&theme=algolia" />
 </p>
 
