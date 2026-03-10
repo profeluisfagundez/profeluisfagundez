@@ -1,16 +1,17 @@
 <h1 align="center">
- 👋 Hi, Mi nombre es Luis E. Fagúndez!
+ 👋 Hola!, Mi nombre es Luis E. Fagúndez!
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer"> 
 </p>
 
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img  width="100%" height="auto" src="https://media.tenor.com/ZqghJjHiZJwAAAAj/dudu-working-computer.gif" height="175px"/></a>
 
 </br>
 
@@ -139,8 +140,6 @@ class About extends Me
       <br>Vue JS
     </td>
   </tr>
-
-
 
   <tr>
       <td align="center" width="96">
