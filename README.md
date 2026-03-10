@@ -140,7 +140,15 @@ class About extends Me
     </td>
   </tr>
 
+
+
   <tr>
+      <td align="center" width="96">
+      <a href="#python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" width="48" height="48" alt="python" />
+      </a>
+      <br>Laravel
+    </td>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
