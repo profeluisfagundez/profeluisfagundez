@@ -11,7 +11,7 @@
 </br> 
 
 <!-- <a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<a href="#"><img  width="50%" height="auto" src="https://media.tenor.com/ZqghJjHiZJwAAAAj/dudu-working-computer.gif" height="140px"/></a>
+<a href="#"><img align="center" width="50%" height="auto" src="https://media.tenor.com/ZqghJjHiZJwAAAAj/dudu-working-computer.gif" height="140px"/></a>
 
 </br>
 
